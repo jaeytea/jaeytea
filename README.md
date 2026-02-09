@@ -1,11 +1,11 @@
 <h1 align="center">Hi There 👋, I'm Jagriti Tripathi</h1>
-<h3 align="center">Your Delhi🎀 -based Backend developer with a specialization in Java and Spring Boot, RESTful APIs, and some practical knowledge of frontend as well. Hands-on experience with React, SQL, and modern Java. Actively building real-world projects, and looking to work on end-to-end features. Happy to connect!</h3>
+<h3 align="center">Your Delhi🎀 -based Backend developer with a specialization in Java and Spring Boot, RESTful APIs, and some practical knowledge of frontend as well. Hands-on experience with React, SQL, and modern Java. <br/>Actively building real-world projects, and looking to work on end-to-end features. <br/>Happy to connect!</h3>
 
 - 🌱 I’m currently learning **System Design**
 
 - 📫 Reach me out on **jaagritiwork@gmail.com**
 
-- ⚡ Fun fact **Lesser time complexity to debug any vibe-coded project.**
+- ⚡ Fun fact **I can help reduce the time complexity of debugging vibe-coded projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

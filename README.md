@@ -1,6 +1,5 @@
-Hi There. I code for fun-learning. Will be updating the bio soon!
-<h1 align="center">Hi 👋, I'm Jagriti Tripathi</h1>
-<h3 align="center">Your Delhi-based Backend developer with a specialization in Java and Spring Boot, RESTful APIs, and some practical knowledge of frontend as well. Hands-on experience with React, SQL, and modern Java. Actively building real-world projects, and looking to work on end-to-end features. Happy to connect!</h3>
+<h1 align="center">Hi There 👋, I'm Jagriti Tripathi</h1>
+<h3 align="center">Your Delhi🎀 -based Backend developer with a specialization in Java and Spring Boot, RESTful APIs, and some practical knowledge of frontend as well. Hands-on experience with React, SQL, and modern Java. Actively building real-world projects, and looking to work on end-to-end features. Happy to connect!</h3>
 
 - 🌱 I’m currently learning **System Design**
 

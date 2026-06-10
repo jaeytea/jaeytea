@@ -1,11 +1,11 @@
 <h1 align="center">Hi There 👋, I'm Jagriti Tripathi</h1>
-<h3 align="center">Your Delhi🎀 -based Backend developer with a specialization in Java and Spring Boot, RESTful APIs, and some practical knowledge of frontend as well. Hands-on experience with React, SQL, and modern Java. <br/>Actively building real-world projects, and looking to work on end-to-end features. <br/>Happy to connect!</h3>
+<h3 align="center">Look, professionally I have worked with distributed systems, messaging queues, trade flow pipelines, RESTful APIs primarily programming with Java/Springboot, routing with Apache Camel and occassionally interacting with ReactJS CRA and Vite too for frontend. I have also side-quested with Docker -> Podman, Jenkins DevOps; Grafana/PromQL, SQL, Linux and Bash scripts. <br/>Currently building projects for ideas that pop in my brain :D <br/>Happy to connect and collaborate on projects!</h3>
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **System Design** and **GenAI**
 
 - 📫 Reach me out on **jaagritiwork@gmail.com**
 
-- ⚡ Fun fact **I can help reduce the time complexity of debugging vibe-coded projects.**
+- ⚡ Fun fact **I can help reduce the time complexity of debugging vibe-coded projects, plus I'll always question its security!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

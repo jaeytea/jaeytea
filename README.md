@@ -1,12 +1,14 @@
 <h1 align="center">Hi There 👋, I'm Jagriti Tripathi</h1>
 <br/>
-<h4 align="left">Look, professionally I have worked with distributed systems, messaging queues, trade flow pipelines, RESTful APIs primarily programming with Java/Springboot, routing with Apache Camel and occassionally interacting with ReactJS CRA and Vite too for frontend. <br/> <br/>I have also side-quested with Docker -> Podman, Jenkins DevOps; Grafana/PromQL, SQL, Linux and Bash scripts. <br/>Currently building projects for ideas that pop in my brain :D <br/>Happy to connect and collaborate on projects!</h4>
+<h4 align="left">Look, professionally I have worked with distributed systems, messaging queues, trade flow pipelines, RESTful APIs primarily programming with Java/Springboot, routing with Apache Camel and occassionally interacting with ReactJS CRA and Vite too for frontend. <br/> I have also side-quested with Docker -> Podman, Jenkins DevOps; Grafana/PromQL, SQL, Linux and Bash scripts. <br/> <br/>Currently building projects for ideas that pop in my brain :D <br/> <br/>Happy to connect and collaborate on projects! 🖥️ </h4>
 
-- 🌱 I’m currently learning **System Design** and **GenAI**
+<hr/>
 
-- 📫 Reach me out on **jaagritiwork@gmail.com**
+🌱 I’m currently learning **System Design** and **GenAI**
 
-- ⚡ Fun fact **I can help reduce the time complexity of debugging vibe-coded projects, plus I'll always question its security!**
+📫 Reach me out on **jaagritiwork@gmail.com**
+
+⚡ Fun fact **I can help reduce the time complexity of debugging vibe-coded projects, plus I'll always question its security!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

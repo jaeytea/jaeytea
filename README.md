@@ -1,5 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Jagriti Tripathi</h1>
-<h4 align="left">Look, professionally I have worked with distributed systems, messaging queues, trade flow pipelines, RESTful APIs primarily programming with Java/Springboot, routing with Apache Camel and occassionally interacting with ReactJS CRA and Vite too for frontend. <br/> I have also side-quested with Docker -> Podman, Jenkins DevOps; Grafana/PromQL, SQL, Linux and Bash scripts. <br/>Currently building projects for ideas that pop in my brain :D <br/>Happy to connect and collaborate on projects!</h4>
+<br/>
+<h4 align="left">Look, professionally I have worked with distributed systems, messaging queues, trade flow pipelines, RESTful APIs primarily programming with Java/Springboot, routing with Apache Camel and occassionally interacting with ReactJS CRA and Vite too for frontend. <br/> <br/>I have also side-quested with Docker -> Podman, Jenkins DevOps; Grafana/PromQL, SQL, Linux and Bash scripts. <br/>Currently building projects for ideas that pop in my brain :D <br/>Happy to connect and collaborate on projects!</h4>
 
 - 🌱 I’m currently learning **System Design** and **GenAI**
 

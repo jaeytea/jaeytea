@@ -1,4 +1,6 @@
-# Hey, I'm Jagriti 👋
+
+
+# Hey, I'm Jagriti Tripathi👋
 
 ### Software Engineer · Backend & Full-Stack · Java/Spring · AI/RAG
 
